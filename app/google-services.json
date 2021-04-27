@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "257841831937",
+    "firebase_url": "https://qwiklabs-gcp-01-3a59ed8f0fdd-default-rtdb.firebaseio.com",
+    "project_id": "qwiklabs-gcp-01-3a59ed8f0fdd",
+    "storage_bucket": "qwiklabs-gcp-01-3a59ed8f0fdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257841831937:android:a23db0cc8346fc60c96000",
+        "android_client_info": {
+          "package_name": "com.iramml.uberclone.riderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257841831937-ohtvlkag42vlismbvehnmn8do11c3s6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ7wtBoQ6Z0HCMjefbKDL6rqLeHN3tvfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257841831937-ohtvlkag42vlismbvehnmn8do11c3s6l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
